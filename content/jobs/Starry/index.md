@@ -3,7 +3,7 @@ date: '2019-01-01'
 title: 'Independent Developer'
 company: 'GitHub / Self-Initiated Projects'
 location: 'Remote'
-range: '2019 – Present'
+range: '2022 – Present'
 url: 'https://github.com/AnnNaserNabil'
 ---
 
