@@ -1,11 +1,14 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2023-02-01'
+title: 'Data Science Intern'
+company: 'Somikoron AI'
+location: 'Dhaka, Bangladesh'
+range: 'January – June 2024'
+url: 'https://somikoron.com/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Contributed to a Natural Language Processing (NLP) project aimed at aggregating and analyzing Bangladeshi news content
+- Assisted in the development of a news alert application by scraping, cleaning, and structuring data from online media outlets
+- Gained hands-on experience with web scraping tools, Python scripts, and text preprocessing pipelines for Bengali-language datasets
+- Collaborated remotely with the core AI team to improve content relevance and reduce data noise in real-time feeds
+- Reflected critically on the experience—while the work involved limited exposure to applied machine learning, it provided valuable lessons in data hygiene, teamwork, and the importance of aligning projects with long-term learning goals
