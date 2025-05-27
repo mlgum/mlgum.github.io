@@ -1,14 +1,13 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2023-03-05'
+title: 'Exploratory Data Analysis (EDA) Projects on 10 Datasets'
+github: 'https://github.com/AnnNaserNabil/eda-projects'
+external: ''
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - Python
+  - Data Science
+company: 'Indie Dev'
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+A collection of exploratory data analysis projects performed on ten diverse datasets, focusing on data cleaning, visualization, and deriving actionable insights using Python-based tools.
