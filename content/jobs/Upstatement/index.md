@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2025-05-28'
+title: 'Creative Writer'
+company: 'Prothom Alo'
+location: 'Dhaka, Bangladesh'
+range: '2014 – Present'
+url: 'https://www.prothomalo.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Contributed as a regular creative writer across multiple sections of Prothom Alo, including feature stories, satire, youth content, and human-interest narratives
+- Published a diverse range of articles, columns, and opinion pieces under various bylines, reaching millions of readers both online and in print
+- Collaborated with editorial teams to craft compelling content tailored to contemporary social issues, cultural trends, and generational perspectives
+- Focused on human-centered storytelling, satire, and narrative experimentation—bridging journalism and literature in the Bangladeshi media landscape

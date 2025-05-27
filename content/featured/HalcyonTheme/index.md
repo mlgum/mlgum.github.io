@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'AutoML Bench'
+cover: './automl.jpeg'
+github: 'https://github.com/AnnNaserNabil/automlbench'
+external: 'https://nabil.is-a.dev/posts/automlbench/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Python
+  - Scikit-learn
+  - Pandas
+  - Jupyter Notebook
+  - Streamlit
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A lightweight, extensible benchmarking suite for comparing popular AutoML frameworks on real-world datasets. Designed to help researchers and developers quickly evaluate metrics of different machine learning models.
