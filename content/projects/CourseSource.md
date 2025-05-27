@@ -1,15 +1,13 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+date: '2023-09-20'
+title: 'TidyFlow and FireViz: Data Preprocessing and Visualization Libraries'
+github: 'https://github.com/AnnNaserNabil/tidyflow'
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
-showInProjects: false
+  - Python
+  - Data Science
+company: ''
+showInProjects: true
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+Lightweight Python libraries designed to simplify data preprocessing (encoding, scaling, transforming) and provide intuitive, easy-to-use visualization tools tailored for efficient machine learning workflows.
