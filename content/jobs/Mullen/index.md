@@ -4,7 +4,7 @@ title: 'Community Volunteer'
 company: 'AI & ML Professional Community, Bangladesh'
 location: 'Dhaka, Bangladesh / Remote'
 range: '2025 – Present'
-url: '[https://www.facebook.com/groups/aimlbd](https://www.linkedin.com/groups/14270358/)'
+url: 'https://www.linkedin.com/groups/14270358/'
 ---
 
 - Actively contributing to community growth by writing educational posts, event updates, and AI/ML insights tailored for the Bangladeshi tech ecosystem
