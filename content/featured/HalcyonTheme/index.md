@@ -1,9 +1,9 @@
 ---
 date: '1'
 title: 'AutoML Bench'
-cover: './automl-bench.png'
-github: 'https://github.com/yourusername/automl-bench'
-external: 'https://automl-bench.netlify.app/'
+cover: './automl.jpeg'
+github: 'https://github.com/AnnNaserNabil/automlbench'
+external: 'https://nabil.is-a.dev/posts/automlbench/'
 tech:
   - Python
   - Scikit-learn
