@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'Machine Learning', 'Ai Agent', 'Linux', 'Node.js', 'Deep Learning'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -133,35 +133,31 @@ const About = () => {
 
       <div className="inner">
         <StyledText>
-          <div>
+        <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi, I'm Ann Naser Nabil — a data scientist by training, a writer by passion, and a
+              lifelong explorer of ideas that bridge logic and creativity. With a background in
+              economics and computer science, I specialize in making sense of complex data to tell
+              meaningful stories — whether through models, visuals, code, or words.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I've worked across industries, from building AI agents and ML models to writing for
+              national satire platforms and translating open-source software into Bengali. I'm
+              equally comfortable building a machine learning pipeline as I am crafting a compelling
+              narrative. This mix of analytics and artistry defines my approach to work and life.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I believe in the power of simplicity, systems, and self-awareness. When I'm not coding
+              or writing, you'll find me sketching, meditating, or working on a self-help video for
+              my YouTube channel. My goal? To create things that make people's lives better —
+              smarter tools, clearer stories, and ideas that move us forward.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Let's connect if you're building something meaningful.</p>
+
+            <p>Technologies I work with:</p>
           </div>
 
           <ul className="skills-list">
@@ -173,7 +169,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

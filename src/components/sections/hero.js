@@ -28,7 +28,9 @@ const StyledHeroSection = styled.section`
       margin: 0 0 20px 2px;
     }
   }
-
+  h2.big-heading {
+    font-size: clamp(40px, 8vw, 80px); 
+  }
   h3 {
     margin-top: 5px;
     color: var(--slate);
@@ -59,29 +61,28 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hi, i am</h1>;
+  const two = <h2 className="big-heading">Ann Naser Nabil</h2>;
+  const three = <h3 className="big-heading">AI & ML Engineer</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        Hi, I’m a data scientist, writer, and creative thinker based in Bangladesh. With a strong
+        background in economics and machine learning, I specialize in turning data into meaningful
+        insights and building smart, practical solutions. Beyond data, I write, paint, and explore
+        the intersections of technology, psychology, and storytelling. Whether it’s coding a model,
+        crafting a compelling story, or sketching an idea — I’m driven by curiosity and a love for
+        learning.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://bit.ly/m/Ubermensch"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my pages!
     </a>
   );
 
