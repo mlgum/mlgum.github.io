@@ -1,12 +1,15 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '2024-03-20'
+title: 'Psychologist Agent: AI-Driven Emotional Support Chatbot'
+github: 'https://github.com/AnnNaserNabil/psychologist-agent'
+external: ''
 tech:
-  - Vue
-  - Firebase
+  - Python
+  - OpenAI API
+  - Langchain
+  - Streamlit
+company: ''
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+An empathetic AI agent providing conversational emotional support, mental wellness advice, and active listening, designed to promote psychological well-being with natural, compassionate interaction.
