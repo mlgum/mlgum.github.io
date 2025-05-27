@@ -1,12 +1,14 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2019-01-01'
+title: 'Independent Developer'
+company: 'GitHub / Self-Initiated Projects'
+location: 'Remote'
+range: '2019 – Present'
+url: 'https://github.com/AnnNaserNabil'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Developed and maintained a variety of open-source projects spanning data science tools, web applications, and productivity utilities
+- Built personal applications with meaningful impact, including Bengali-localized software, recommendation systems, and lightweight ML toolkits
+- Contributed to codebases focused on NLP, health tech, and civic tools using Python, JavaScript, and modern frameworks like Flask, Streamlit, and Hugging Face
+- Actively explored functional programming, system automation, and Python packaging through solo experiments and research-driven development
+- Practiced continuous learning by integrating new ideas into public repositories—documenting code, writing READMEs, and sharing real-world problems and solutions with the developer community
