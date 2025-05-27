@@ -4,6 +4,7 @@ title: 'Vinch Gogh – Bengali Sci-Fi & Fantasy Storytelling Companion'
 cover: './vinch.png'
 github: 'https://github.com/yourusername/vinch-gogh'
 external: 'https://vinch-gogh.streamlit.app/'
+cta: 'https://nabil.is-a.dev/posts/VinchGogh/'
 tech:
   - Streamlit
   - Google Gemini API
