@@ -1,14 +1,15 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+date: '2023-07-30'
+title: 'Disease Prediction and Drug Recommendation System'
+github: 'https://github.com/AnnNaserNabil/disease-prediction-system'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - Python
+  - Flask
+  - Machine Learning
+  - Health Tech
+company: ''
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+An AI-powered health tech system delivering real-time disease prediction and personalized drug recommendations based on live user inputs, aiming to improve early diagnosis and patient care.
