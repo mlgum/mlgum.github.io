@@ -28,7 +28,9 @@ const StyledHeroSection = styled.section`
       margin: 0 0 20px 2px;
     }
   }
-
+  h2.big-heading {
+    font-size: clamp(40px, 8vw, 80px); 
+  }
   h3 {
     margin-top: 5px;
     color: var(--slate);
@@ -61,7 +63,6 @@ const Hero = () => {
 
   const one = <h1>Hi, i am</h1>;
   const two = <h2 className="big-heading">Ann Naser Nabil</h2>;
-  const five = <h1>an</h1>;
   const three = <h3 className="big-heading">AI & ML Engineer</h3>;
   const four = (
     <>
