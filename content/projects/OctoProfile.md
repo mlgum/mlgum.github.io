@@ -1,13 +1,15 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2024-03-12'
+title: 'Philosopher Agent: AI-Powered Philosophical Dialogue'
+github: 'https://github.com/AnnNaserNabil/philosopher-agent'
+external: ''
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Python
+  - OpenAI API
+  - Langchain
+  - Streamlit
+company: ''
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+An AI agent designed to engage users in deep philosophical conversations, exploring classical and modern ideas with contextual understanding and thoughtful responses, ideal for philosophy enthusiasts and learners.
