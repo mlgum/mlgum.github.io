@@ -7,8 +7,8 @@ range: '2018 – Present'
 url: 'https://www.earki.com/ann-naser-nabil'
 ---
 
-- Wrote and published satirical pieces that blend humor, social critique, and political commentary, resonating with a wide urban Bengali audience
-- Developed recurring characters, formats, and storylines for viral content, contributing to Earki's unique voice in Bangladeshi digital satire
-- Collaborated with visual content teams to integrate headlines, illustrations, and memes that amplified storytelling impact on social media
-- Specialized in smart, punchy writing across a variety of formats—fake news, parody interviews, fictional dialogues, and absurdist takes on real events
-- Known for bringing a philosophical and psychological edge to satire, often exploring deeper truths beneath everyday absurdities
+- Writing and publishing satirical pieces that blend humor, social critique, and cultural commentary, engaging a wide urban Bengali audience  
+- Developing recurring characters, formats, and storylines that shape Earki's ongoing voice in Bangladeshi digital satire  
+- Collaborating with visual teams to integrate illustrations, headlines, and memes, enhancing the impact of content across platforms  
+- Crafting smart, punchy pieces in formats ranging from fake news and parody interviews to fictional dialogues and absurdist takes on current events  
+- Exploring philosophical and psychological layers within satire, revealing deeper insights beneath everyday absurdities  
