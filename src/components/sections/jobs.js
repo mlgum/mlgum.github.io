@@ -80,13 +80,12 @@ const StyledTabButton = styled.button`
   }
   @media (max-width: 600px) {
     ${({ theme }) => theme.mixins.flexCenter};
-    width: var(--tab-width);
+    min-width: var(--tab-width);
+    width: auto;
     padding: 0 15px;
     border-left: 0;
     border-bottom: 2px solid var(--lightest-navy);
     text-align: center;
-    overflow: hidden;
-    text-overflow: ellipsis;
   }
 
   &:hover,
