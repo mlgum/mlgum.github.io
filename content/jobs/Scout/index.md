@@ -3,7 +3,7 @@ date: '2023-02-01'
 title: 'Data Science Intern'
 company: 'Somikoron AI'
 location: 'Dhaka, Bangladesh'
-range: 'January – June 2024'
+range: 'January 2024 – June 2024'
 url: 'https://somikoron.com/'
 ---
 
