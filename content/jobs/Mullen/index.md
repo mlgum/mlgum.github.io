@@ -4,7 +4,7 @@ title: 'Director (Media)'
 company: 'AI & ML Professional Community, Bangladesh'
 location: 'Dhaka, Bangladesh / Remote'
 range: '2025 – Present'
-url: 'https://www.linkedin.com/groups/14270358/'
+url: 'https://aimlcommunity.pythonbd.org/'
 ---
 
 - Leading the community’s media and content direction to support sustainable growth and knowledge sharing within Bangladesh’s AI/ML ecosystem
