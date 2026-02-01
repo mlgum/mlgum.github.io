@@ -80,8 +80,9 @@ const StyledTabButton = styled.button`
   }
   @media (max-width: 600px) {
     ${({ theme }) => theme.mixins.flexCenter};
+    flex: 0 0 auto;
     min-width: var(--tab-width);
-    width: auto;
+    width: max-content;
     padding: 0 15px;
     border-left: 0;
     border-bottom: 2px solid var(--lightest-navy);
