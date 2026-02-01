@@ -133,29 +133,32 @@ const About = () => {
 
       <div className="inner">
         <StyledText>
-        <div>
+          <div>
             <p>
-              Hi, I'm Ann Naser Nabil — a data scientist by training, a writer by passion, and a
-              lifelong explorer of ideas that bridge logic and creativity. With a background in
-              economics and computer science, I specialize in making sense of complex data to tell
-              meaningful stories — whether through models, visuals, code, or words.
+              Hi, I’m Ann Naser Nabil. I work at the intersection of data, systems, and human behavior.
+              Trained in economics and computer science, I use data science not just to predict outcomes,
+              but to understand why people, markets, and systems behave the way they do.
             </p>
 
             <p>
-              I've worked across industries, from building AI agents and ML models to writing for
-              national satire platforms and translating open-source software into Bengali. I'm
-              equally comfortable building a machine learning pipeline as I am crafting a compelling
-              narrative. This mix of analytics and artistry defines my approach to work and life.
+              I’ve built machine learning pipelines, AI agents, and analytical tools, and I’ve also spent
+              years writing — from national satire platforms to long-form reflective work. For me, code
+              and writing serve the same purpose: turning complexity into clarity.
             </p>
 
             <p>
-              I believe in the power of simplicity, systems, and self-awareness. When I'm not coding
-              or writing, you'll find me sketching, meditating, or working on a self-help video for
-              my YouTube channel. My goal? To create things that make people's lives better —
-              smarter tools, clearer stories, and ideas that move us forward.
+              My thinking is strongly influenced by systems design, behavioral economics, psychology,
+              and contemplative practice. I value simplicity, intentional design, and self-awareness —
+              both in software and in life.
             </p>
 
-            <p>Let's connect if you're building something meaningful.</p>
+            <p>
+              Outside of work, I sketch, meditate, and create self-help content exploring productivity,
+              meaning, and mental models. I’m interested in building things that last: tools, ideas,
+              and narratives that genuinely improve how people think and live.
+            </p>
+
+            <p>Let’s connect if you’re working on something thoughtful and real.</p>
 
             <p>Technologies I work with:</p>
           </div>
