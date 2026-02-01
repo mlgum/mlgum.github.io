@@ -7,7 +7,7 @@ range: '2014 – Present'
 url: 'https://www.prothomalo.com/'
 ---
 
-- Contributed as a regular creative writer across multiple sections of Prothom Alo, including feature stories, satire, youth content, and human-interest narratives
-- Published a diverse range of articles, columns, and opinion pieces under various bylines, reaching millions of readers both online and in print
-- Collaborated with editorial teams to craft compelling content tailored to contemporary social issues, cultural trends, and generational perspectives
-- Focused on human-centered storytelling, satire, and narrative experimentation—bridging journalism and literature in the Bangladeshi media landscape
+- Writing and publishing feature stories, satire, youth content, and human-interest narratives across multiple sections of Prothom Alo  
+- Producing a diverse range of articles, columns, and opinion pieces that reach millions of readers both online and in print  
+- Collaborating with editorial teams to craft compelling content on contemporary social issues, cultural trends, and generational perspectives  
+- Experimenting with human-centered storytelling, satire, and narrative forms—bridging journalism and literature in the Bangladeshi media landscape  
